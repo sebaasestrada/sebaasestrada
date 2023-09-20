@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sebas</h1>
 <h3 align="center">A curious developer interested in everything related with a computer</h3>
-<img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"/>
+<img src="https://i.gifer.com/3EqX.gif"/>
 
 - 🌱 I’m currently learning **react and python**
 

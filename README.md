@@ -1,8 +1,13 @@
 <h1 align="center">Hi 👋, I'm Sebas</h1>
 <h3 align="center">A curious developer interested in everything related with a computer</h3>
-<img src="https://s3.ap-southeast-1.amazonaws.com/chanceupon/public/images/main_image/blogs/40/original/cu-chatbot.gif?1685790800"/>
+
+- 🔭 I’m currently working on **anterlabs website**
 
 - 🌱 I’m currently learning **react and python**
+
+- 👨‍💻 All of my projects are available at [anterlabs.com](anterlabs.com)
+
+- 📫 How to reach me **sebaasestrada@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

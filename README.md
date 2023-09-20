@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sebas</h1>
 <h3 align="center">A curious developer interested in everything related with a computer</h3>
+<img src="intro.gif" />
 
 - 🔭 I’m currently working on **anterlabs website**
 

@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **react and python**
 
-- 👨‍💻 All of my projects are available at [anterlabs.com](anterlabs.com)
+- 👨‍💻 All of my projects are available at [anterlabs.com](https://anterlabs.com)
 
 - 📫 How to reach me **sebaasestrada@gmail.com**
 
